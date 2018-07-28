@@ -1,0 +1,13 @@
+{
+  "name": "js-syntax",
+  "version": "1.0.0",
+  "description": "a summary of js syntax tricks in examples",
+  "main": "index.js",
+  "repository": "git@github.com:Benjmhart/js-syntax.git",
+  "author": "Ben Hart <benjmhart@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.1.2",
+    "parcel": "^1.9.7"
+  }
+}
